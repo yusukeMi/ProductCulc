@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">" ProductCulc"</string>
+    <string name="title_activity_liner_guide">LinerGuideActivity</string>
+    <string name="title_activity_ball_screw">BallScrewActivity</string>
+</resources>
